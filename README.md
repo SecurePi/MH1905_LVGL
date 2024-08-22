@@ -1,14 +1,14 @@
-# MH1905 EVB LVGL demo
+# Secure Pi EVB LVGL demo
 
-This demo source code is based on LVGL's Github codes. The music demo and widget demo is available to work on MH1905-EVB.
+This demo source code is based on LVGL's Github codes. The music demo and widget demo is available to work on SP2302.
 
  [YouTube demo][link-youtube]
 
 ## 🧰Required tools
 1. Ubuntu OS - 22.04
-2. MH1905_LVGL file - Download directly from github
+2. Secure_Pi_LVGL file - Download directly from github
 3. [Toolchain file][link-toolchain]
-4. MH1905 EVB
+4. SP2302
 
 ## Procedures
 1. Required package in Ubuntu OS - flex, bison, gcc and make
